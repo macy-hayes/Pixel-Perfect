@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: f02616e28caf80b40a464394b744aa93
+guid: 3a059a78ac6af2b4a9b63d41a4b34fcd
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -8271192025439500081
-    second: warebare1_0
+      213: -5347878494714698682
+    second: roboant_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -113,13 +113,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: warebare1_0
+      name: roboant_0
       rect:
         serializedVersion: 2
-        x: 33
-        y: 0
-        width: 106
-        height: 142
+        x: 34
+        y: 34
+        width: 1949
+        height: 1171
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -128,8 +128,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: fc882aeeca2d63d80800000000000000
-      internalID: -8271192025439500081
+      spriteID: 6446494e7d488c5b0800000000000000
+      internalID: -5347878494714698682
       vertices: []
       indices: 
       edges: []
@@ -147,8 +147,7 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable:
-      warebare1_0: -8271192025439500081
+    nameFileIdTable: {}
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

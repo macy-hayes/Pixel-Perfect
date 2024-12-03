@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: 5972dc0339f2e1a4a86c69c3756fe12e
+guid: d31d1f933d542e243a4e449e52f0ccd4
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 7665754545700152917
-    second: Cat_Front_Smile_Resize_0
+      213: -460431137352812930
+    second: warebare_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -113,13 +113,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Cat_Front_Smile_Resize_0
+      name: warebare_0
       rect:
         serializedVersion: 2
-        x: 407
-        y: 22
-        width: 1376
-        height: 1971
+        x: 358
+        y: 0
+        width: 1455
+        height: 1970
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -128,8 +128,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 5562bc7f42b326a60800000000000000
-      internalID: 7665754545700152917
+      spriteID: e767e8ee1583c99f0800000000000000
+      internalID: -460431137352812930
       vertices: []
       indices: 
       edges: []
@@ -147,8 +147,7 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable:
-      Cat_Front_Smile_Resize_0: 7665754545700152917
+    nameFileIdTable: {}
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
