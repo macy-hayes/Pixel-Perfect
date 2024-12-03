@@ -357,7 +357,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 11c8ab69dd8d20645bf89eca2b27cced, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  catRB: {fileID: 0}
+  catRB: {fileID: 570141170}
   speed: 5
   input: 0
 --- !u!50 &570141170
