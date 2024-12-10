@@ -146,15 +146,15 @@ RectTransform:
   m_GameObject: {fileID: 20945433}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 10, y: 10, z: 1}
+  m_LocalScale: {x: 7, y: 7, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 737940576}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -562.6589, y: 443.20856}
-  m_SizeDelta: {x: 74.4682, y: 12.3583}
+  m_AnchoredPosition: {x: -173.9, y: 361.9}
+  m_SizeDelta: {x: 203.57, y: 38}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &20945435
 MonoBehaviour:
@@ -182,14 +182,16 @@ MonoBehaviour:
     m_FontStyle: 0
     m_BestFit: 0
     m_MinSize: 0
-    m_MaxSize: 61
+    m_MaxSize: 95
     m_Alignment: 0
     m_AlignByGeometry: 0
     m_RichText: 1
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: Test text
+  m_Text: 'Use Right and Left Arrows to Move
+
+    Use ___ to interact'
 --- !u!222 &20945436
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -1724,6 +1726,7 @@ GameObject:
   - component: {fileID: 519420031}
   - component: {fileID: 519420029}
   - component: {fileID: 519420030}
+  - component: {fileID: 519420033}
   m_Layer: 0
   m_Name: Main Camera
   m_TagString: MainCamera
@@ -1842,13 +1845,32 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 519420028}
   serializedVersion: 2
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0, y: 0, z: -10}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0.1580001, y: 0.1010381, z: -10}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &519420033
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 519420028}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b91801176fc51ce48a041121442f3bc2, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  player: {fileID: 570141166}
+  speedOffset: 4
+  posOffset: {x: 3.8, y: -0.25}
+  leftLimit: 0.08
+  rightLimit: 21.05
+  bottomLimit: 0
+  topLimit: 0
 --- !u!1 &570141166
 GameObject:
   m_ObjectHideFlags: 0
@@ -1934,7 +1956,7 @@ Transform:
   m_GameObject: {fileID: 570141166}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -3.59, y: 0.43, z: 0}
+  m_LocalPosition: {x: -3.642, y: 0.334, z: 0}
   m_LocalScale: {x: 0.18, y: 0.18, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -2548,7 +2570,7 @@ Transform:
   m_GameObject: {fileID: 731167479}
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalPosition: {x: 0.87, y: 0.02, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -5489,7 +5511,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 2794051868232008080, guid: 410a5954c03fcd34fa723a54bffc3f99, type: 3}
       propertyPath: m_LocalPosition.x
-      value: -1.3927512
+      value: -11.14
       objectReference: {fileID: 0}
     - target: {fileID: 2794051868232008080, guid: 410a5954c03fcd34fa723a54bffc3f99, type: 3}
       propertyPath: m_LocalPosition.y
