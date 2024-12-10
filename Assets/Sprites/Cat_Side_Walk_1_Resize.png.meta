@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Cat_Side_Walk_1_Resize_0: 7431998939984666123
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
