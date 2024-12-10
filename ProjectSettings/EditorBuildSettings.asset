@@ -8,6 +8,18 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/OutdoorScene.unity
     guid: 8c9cfa26abfee488c85f1582747f6a02
+  - enabled: 1
+    path: Assets/Scenes/Houses/Pass1House.unity
+    guid: 2478df38f9b322945911d8932d8c1cc3
+  - enabled: 1
+    path: Assets/Scenes/Houses/Pass2House.unity
+    guid: d8078b0fcfa853d4389605313f83cb1f
+  - enabled: 1
+    path: Assets/Scenes/Houses/LinkerHouse.unity
+    guid: 371b34d862381ad40b245c7b7d4199e7
+  - enabled: 1
+    path: Assets/Scenes/Houses/OptimAndMemManageHouse.unity
+    guid: 51bfc4b486b1b194298072f85b10dff1
   m_configObjects:
     com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 2bcd2660ca9b64942af0de543d8d7100, type: 3}
   m_UseUCBPForAssetBundles: 0
