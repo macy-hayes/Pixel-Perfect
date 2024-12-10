@@ -3010,7 +3010,7 @@ GameObject:
   m_Component:
   - component: {fileID: 2794051868232008080}
   m_Layer: 0
-  m_Name: Background
+  m_Name: OutdoorBg
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
