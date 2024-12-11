@@ -719,7 +719,7 @@ PrefabInstance:
       objectReference: {fileID: 1990822634}
     - target: {fileID: 2855306092940409004, guid: e2cfd3a4565c45944bfba0a6f4e50e10, type: 3}
       propertyPath: speaker.Array.size
-      value: 32
+      value: 33
       objectReference: {fileID: 0}
     - target: {fileID: 2855306092940409004, guid: e2cfd3a4565c45944bfba0a6f4e50e10, type: 3}
       propertyPath: portrait.Array.size
@@ -843,11 +843,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 2855306092940409004, guid: e2cfd3a4565c45944bfba0a6f4e50e10, type: 3}
       propertyPath: 'speaker.Array.data[21]'
-      value: You
+      value: Linker Octo
       objectReference: {fileID: 0}
     - target: {fileID: 2855306092940409004, guid: e2cfd3a4565c45944bfba0a6f4e50e10, type: 3}
       propertyPath: 'speaker.Array.data[22]'
-      value: Linker Octo
+      value: You
       objectReference: {fileID: 0}
     - target: {fileID: 2855306092940409004, guid: e2cfd3a4565c45944bfba0a6f4e50e10, type: 3}
       propertyPath: 'speaker.Array.data[23]'
@@ -855,11 +855,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 2855306092940409004, guid: e2cfd3a4565c45944bfba0a6f4e50e10, type: 3}
       propertyPath: 'speaker.Array.data[24]'
-      value: You
+      value: Linker Octo
       objectReference: {fileID: 0}
     - target: {fileID: 2855306092940409004, guid: e2cfd3a4565c45944bfba0a6f4e50e10, type: 3}
       propertyPath: 'speaker.Array.data[25]'
-      value: Linker Octo
+      value: You
       objectReference: {fileID: 0}
     - target: {fileID: 2855306092940409004, guid: e2cfd3a4565c45944bfba0a6f4e50e10, type: 3}
       propertyPath: 'speaker.Array.data[26]'
@@ -871,18 +871,22 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 2855306092940409004, guid: e2cfd3a4565c45944bfba0a6f4e50e10, type: 3}
       propertyPath: 'speaker.Array.data[28]'
-      value: 
-      objectReference: {fileID: 0}
-    - target: {fileID: 2855306092940409004, guid: e2cfd3a4565c45944bfba0a6f4e50e10, type: 3}
-      propertyPath: 'speaker.Array.data[29]'
       value: Linker Octo
       objectReference: {fileID: 0}
     - target: {fileID: 2855306092940409004, guid: e2cfd3a4565c45944bfba0a6f4e50e10, type: 3}
+      propertyPath: 'speaker.Array.data[29]'
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 2855306092940409004, guid: e2cfd3a4565c45944bfba0a6f4e50e10, type: 3}
       propertyPath: 'speaker.Array.data[30]'
-      value: You
+      value: Linker Octo
       objectReference: {fileID: 0}
     - target: {fileID: 2855306092940409004, guid: e2cfd3a4565c45944bfba0a6f4e50e10, type: 3}
       propertyPath: 'speaker.Array.data[31]'
+      value: You
+      objectReference: {fileID: 0}
+    - target: {fileID: 2855306092940409004, guid: e2cfd3a4565c45944bfba0a6f4e50e10, type: 3}
+      propertyPath: 'speaker.Array.data[32]'
       value: Linker Octo
       objectReference: {fileID: 0}
     - target: {fileID: 2855306092940409004, guid: e2cfd3a4565c45944bfba0a6f4e50e10, type: 3}
@@ -975,7 +979,7 @@ PrefabInstance:
       objectReference: {fileID: -278315761961347609, guid: 30591648a233899468abb9443e055e4b, type: 3}
     - target: {fileID: 2855306092940409004, guid: e2cfd3a4565c45944bfba0a6f4e50e10, type: 3}
       propertyPath: dialogueLines.Array.size
-      value: 32
+      value: 33
       objectReference: {fileID: 0}
     - target: {fileID: 2855306092940409004, guid: e2cfd3a4565c45944bfba0a6f4e50e10, type: 3}
       propertyPath: 'dialogueLines.Array.data[0]'
@@ -1064,59 +1068,62 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 2855306092940409004, guid: e2cfd3a4565c45944bfba0a6f4e50e10, type: 3}
       propertyPath: 'dialogueLines.Array.data[19]'
-      value: "Yes, but I prefer librarian. I even handle external libraries. Say
-        you\u2019re using a standard library function like good ole printf."
+      value: Yes, but I prefer librarian. I even handle external libraries.
       objectReference: {fileID: 0}
     - target: {fileID: 2855306092940409004, guid: e2cfd3a4565c45944bfba0a6f4e50e10, type: 3}
       propertyPath: 'dialogueLines.Array.data[20]'
-      value: "I\u2019ll find it, link it up, and make sure your program can use it."
+      value: "Say you\u2019re using a standard library function like good ole printf."
       objectReference: {fileID: 0}
     - target: {fileID: 2855306092940409004, guid: e2cfd3a4565c45944bfba0a6f4e50e10, type: 3}
       propertyPath: 'dialogueLines.Array.data[21]'
-      value: "What happens if you can\u2019t find a symbol?"
+      value: "I\u2019ll find it, link it up, and make sure your program can use it."
       objectReference: {fileID: 0}
     - target: {fileID: 2855306092940409004, guid: e2cfd3a4565c45944bfba0a6f4e50e10, type: 3}
       propertyPath: 'dialogueLines.Array.data[22]'
+      value: "What happens if you can\u2019t find a symbol?"
+      objectReference: {fileID: 0}
+    - target: {fileID: 2855306092940409004, guid: e2cfd3a4565c45944bfba0a6f4e50e10, type: 3}
+      propertyPath: 'dialogueLines.Array.data[23]'
       value: "Oh dear. It\u2019s called an \"undefined symbol error.\" It means you\u2019ve
         asked for something that doesn\u2019t exist."
       objectReference: {fileID: 0}
     - target: {fileID: 2855306092940409004, guid: e2cfd3a4565c45944bfba0a6f4e50e10, type: 3}
-      propertyPath: 'dialogueLines.Array.data[23]'
+      propertyPath: 'dialogueLines.Array.data[24]'
       value: "You\u2019ll need to check your code or libraries to make sure everything
         you need is there."
       objectReference: {fileID: 0}
     - target: {fileID: 2855306092940409004, guid: e2cfd3a4565c45944bfba0a6f4e50e10, type: 3}
-      propertyPath: 'dialogueLines.Array.data[24]'
+      propertyPath: 'dialogueLines.Array.data[25]'
       value: And what if symbols clash?
       objectReference: {fileID: 0}
     - target: {fileID: 2855306092940409004, guid: e2cfd3a4565c45944bfba0a6f4e50e10, type: 3}
-      propertyPath: 'dialogueLines.Array.data[25]'
+      propertyPath: 'dialogueLines.Array.data[26]'
       value: "Excellent question! That\u2019s a \"duplicate symbol error.\""
       objectReference: {fileID: 0}
     - target: {fileID: 2855306092940409004, guid: e2cfd3a4565c45944bfba0a6f4e50e10, type: 3}
-      propertyPath: 'dialogueLines.Array.data[26]'
+      propertyPath: 'dialogueLines.Array.data[27]'
       value: "That\u2019s when I play this really fun game with myself of Eeny-miny-Mo
         of which one I will pick."
       objectReference: {fileID: 0}
     - target: {fileID: 2855306092940409004, guid: e2cfd3a4565c45944bfba0a6f4e50e10, type: 3}
-      propertyPath: 'dialogueLines.Array.data[27]'
+      propertyPath: 'dialogueLines.Array.data[28]'
       value: So, I highly recommend making sure all your symbols are strong.
       objectReference: {fileID: 0}
     - target: {fileID: 2855306092940409004, guid: e2cfd3a4565c45944bfba0a6f4e50e10, type: 3}
-      propertyPath: 'dialogueLines.Array.data[28]'
+      propertyPath: 'dialogueLines.Array.data[29]'
       value: This is where the linker games begin
       objectReference: {fileID: 0}
     - target: {fileID: 2855306092940409004, guid: e2cfd3a4565c45944bfba0a6f4e50e10, type: 3}
-      propertyPath: 'dialogueLines.Array.data[29]'
+      propertyPath: 'dialogueLines.Array.data[30]'
       value: "Once everything is resolved and relocated, I produce a final output:
         an executable. That\u2019s your program, ready to run."
       objectReference: {fileID: 0}
     - target: {fileID: 2855306092940409004, guid: e2cfd3a4565c45944bfba0a6f4e50e10, type: 3}
-      propertyPath: 'dialogueLines.Array.data[30]'
+      propertyPath: 'dialogueLines.Array.data[31]'
       value: "Wow, I didn\u2019t realize how much goes into it!"
       objectReference: {fileID: 0}
     - target: {fileID: 2855306092940409004, guid: e2cfd3a4565c45944bfba0a6f4e50e10, type: 3}
-      propertyPath: 'dialogueLines.Array.data[31]'
+      propertyPath: 'dialogueLines.Array.data[32]'
       value: Just remember, a good linker makes all the difference. Now go build
         something amazing!
       objectReference: {fileID: 0}
