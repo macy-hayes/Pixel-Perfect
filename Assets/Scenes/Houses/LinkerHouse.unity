@@ -719,11 +719,11 @@ PrefabInstance:
       objectReference: {fileID: 1990822634}
     - target: {fileID: 2855306092940409004, guid: e2cfd3a4565c45944bfba0a6f4e50e10, type: 3}
       propertyPath: speaker.Array.size
-      value: 9
+      value: 32
       objectReference: {fileID: 0}
     - target: {fileID: 2855306092940409004, guid: e2cfd3a4565c45944bfba0a6f4e50e10, type: 3}
       propertyPath: portrait.Array.size
-      value: 9
+      value: 32
       objectReference: {fileID: 0}
     - target: {fileID: 2855306092940409004, guid: e2cfd3a4565c45944bfba0a6f4e50e10, type: 3}
       propertyPath: 'speaker.Array.data[1]'
@@ -758,6 +758,10 @@ PrefabInstance:
       value: Linker Octo
       objectReference: {fileID: 0}
     - target: {fileID: 2855306092940409004, guid: e2cfd3a4565c45944bfba0a6f4e50e10, type: 3}
+      propertyPath: 'speaker.Array.data[9]'
+      value: You
+      objectReference: {fileID: 0}
+    - target: {fileID: 2855306092940409004, guid: e2cfd3a4565c45944bfba0a6f4e50e10, type: 3}
       propertyPath: 'portrait.Array.data[1]'
       value: 
       objectReference: {fileID: 3630652373692386130, guid: bab896c7e85316743863d6c5cae7108b, type: 3}
@@ -790,8 +794,188 @@ PrefabInstance:
       value: 
       objectReference: {fileID: -278315761961347609, guid: 30591648a233899468abb9443e055e4b, type: 3}
     - target: {fileID: 2855306092940409004, guid: e2cfd3a4565c45944bfba0a6f4e50e10, type: 3}
+      propertyPath: 'portrait.Array.data[9]'
+      value: 
+      objectReference: {fileID: 3630652373692386130, guid: bab896c7e85316743863d6c5cae7108b, type: 3}
+    - target: {fileID: 2855306092940409004, guid: e2cfd3a4565c45944bfba0a6f4e50e10, type: 3}
+      propertyPath: 'speaker.Array.data[10]'
+      value: Linker Octo
+      objectReference: {fileID: 0}
+    - target: {fileID: 2855306092940409004, guid: e2cfd3a4565c45944bfba0a6f4e50e10, type: 3}
+      propertyPath: 'speaker.Array.data[11]'
+      value: Linker Octo
+      objectReference: {fileID: 0}
+    - target: {fileID: 2855306092940409004, guid: e2cfd3a4565c45944bfba0a6f4e50e10, type: 3}
+      propertyPath: 'speaker.Array.data[12]'
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 2855306092940409004, guid: e2cfd3a4565c45944bfba0a6f4e50e10, type: 3}
+      propertyPath: 'speaker.Array.data[13]'
+      value: Linker Octo
+      objectReference: {fileID: 0}
+    - target: {fileID: 2855306092940409004, guid: e2cfd3a4565c45944bfba0a6f4e50e10, type: 3}
+      propertyPath: 'speaker.Array.data[14]'
+      value: Linker Octo
+      objectReference: {fileID: 0}
+    - target: {fileID: 2855306092940409004, guid: e2cfd3a4565c45944bfba0a6f4e50e10, type: 3}
+      propertyPath: 'speaker.Array.data[15]'
+      value: You
+      objectReference: {fileID: 0}
+    - target: {fileID: 2855306092940409004, guid: e2cfd3a4565c45944bfba0a6f4e50e10, type: 3}
+      propertyPath: 'speaker.Array.data[16]'
+      value: Linker Octo
+      objectReference: {fileID: 0}
+    - target: {fileID: 2855306092940409004, guid: e2cfd3a4565c45944bfba0a6f4e50e10, type: 3}
+      propertyPath: 'speaker.Array.data[17]'
+      value: Linker Octo
+      objectReference: {fileID: 0}
+    - target: {fileID: 2855306092940409004, guid: e2cfd3a4565c45944bfba0a6f4e50e10, type: 3}
+      propertyPath: 'speaker.Array.data[18]'
+      value: You
+      objectReference: {fileID: 0}
+    - target: {fileID: 2855306092940409004, guid: e2cfd3a4565c45944bfba0a6f4e50e10, type: 3}
+      propertyPath: 'speaker.Array.data[19]'
+      value: Linker Octo
+      objectReference: {fileID: 0}
+    - target: {fileID: 2855306092940409004, guid: e2cfd3a4565c45944bfba0a6f4e50e10, type: 3}
+      propertyPath: 'speaker.Array.data[20]'
+      value: Linker Octo
+      objectReference: {fileID: 0}
+    - target: {fileID: 2855306092940409004, guid: e2cfd3a4565c45944bfba0a6f4e50e10, type: 3}
+      propertyPath: 'speaker.Array.data[21]'
+      value: You
+      objectReference: {fileID: 0}
+    - target: {fileID: 2855306092940409004, guid: e2cfd3a4565c45944bfba0a6f4e50e10, type: 3}
+      propertyPath: 'speaker.Array.data[22]'
+      value: Linker Octo
+      objectReference: {fileID: 0}
+    - target: {fileID: 2855306092940409004, guid: e2cfd3a4565c45944bfba0a6f4e50e10, type: 3}
+      propertyPath: 'speaker.Array.data[23]'
+      value: Linker Octo
+      objectReference: {fileID: 0}
+    - target: {fileID: 2855306092940409004, guid: e2cfd3a4565c45944bfba0a6f4e50e10, type: 3}
+      propertyPath: 'speaker.Array.data[24]'
+      value: You
+      objectReference: {fileID: 0}
+    - target: {fileID: 2855306092940409004, guid: e2cfd3a4565c45944bfba0a6f4e50e10, type: 3}
+      propertyPath: 'speaker.Array.data[25]'
+      value: Linker Octo
+      objectReference: {fileID: 0}
+    - target: {fileID: 2855306092940409004, guid: e2cfd3a4565c45944bfba0a6f4e50e10, type: 3}
+      propertyPath: 'speaker.Array.data[26]'
+      value: Linker Octo
+      objectReference: {fileID: 0}
+    - target: {fileID: 2855306092940409004, guid: e2cfd3a4565c45944bfba0a6f4e50e10, type: 3}
+      propertyPath: 'speaker.Array.data[27]'
+      value: Linker Octo
+      objectReference: {fileID: 0}
+    - target: {fileID: 2855306092940409004, guid: e2cfd3a4565c45944bfba0a6f4e50e10, type: 3}
+      propertyPath: 'speaker.Array.data[28]'
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 2855306092940409004, guid: e2cfd3a4565c45944bfba0a6f4e50e10, type: 3}
+      propertyPath: 'speaker.Array.data[29]'
+      value: Linker Octo
+      objectReference: {fileID: 0}
+    - target: {fileID: 2855306092940409004, guid: e2cfd3a4565c45944bfba0a6f4e50e10, type: 3}
+      propertyPath: 'speaker.Array.data[30]'
+      value: You
+      objectReference: {fileID: 0}
+    - target: {fileID: 2855306092940409004, guid: e2cfd3a4565c45944bfba0a6f4e50e10, type: 3}
+      propertyPath: 'speaker.Array.data[31]'
+      value: Linker Octo
+      objectReference: {fileID: 0}
+    - target: {fileID: 2855306092940409004, guid: e2cfd3a4565c45944bfba0a6f4e50e10, type: 3}
+      propertyPath: 'portrait.Array.data[10]'
+      value: 
+      objectReference: {fileID: -278315761961347609, guid: 30591648a233899468abb9443e055e4b, type: 3}
+    - target: {fileID: 2855306092940409004, guid: e2cfd3a4565c45944bfba0a6f4e50e10, type: 3}
+      propertyPath: 'portrait.Array.data[11]'
+      value: 
+      objectReference: {fileID: -278315761961347609, guid: 30591648a233899468abb9443e055e4b, type: 3}
+    - target: {fileID: 2855306092940409004, guid: e2cfd3a4565c45944bfba0a6f4e50e10, type: 3}
+      propertyPath: 'portrait.Array.data[12]'
+      value: 
+      objectReference: {fileID: 3630652373692386130, guid: bab896c7e85316743863d6c5cae7108b, type: 3}
+    - target: {fileID: 2855306092940409004, guid: e2cfd3a4565c45944bfba0a6f4e50e10, type: 3}
+      propertyPath: 'portrait.Array.data[13]'
+      value: 
+      objectReference: {fileID: -278315761961347609, guid: 30591648a233899468abb9443e055e4b, type: 3}
+    - target: {fileID: 2855306092940409004, guid: e2cfd3a4565c45944bfba0a6f4e50e10, type: 3}
+      propertyPath: 'portrait.Array.data[14]'
+      value: 
+      objectReference: {fileID: -278315761961347609, guid: 30591648a233899468abb9443e055e4b, type: 3}
+    - target: {fileID: 2855306092940409004, guid: e2cfd3a4565c45944bfba0a6f4e50e10, type: 3}
+      propertyPath: 'portrait.Array.data[15]'
+      value: 
+      objectReference: {fileID: 3630652373692386130, guid: bab896c7e85316743863d6c5cae7108b, type: 3}
+    - target: {fileID: 2855306092940409004, guid: e2cfd3a4565c45944bfba0a6f4e50e10, type: 3}
+      propertyPath: 'portrait.Array.data[16]'
+      value: 
+      objectReference: {fileID: -278315761961347609, guid: 30591648a233899468abb9443e055e4b, type: 3}
+    - target: {fileID: 2855306092940409004, guid: e2cfd3a4565c45944bfba0a6f4e50e10, type: 3}
+      propertyPath: 'portrait.Array.data[17]'
+      value: 
+      objectReference: {fileID: -278315761961347609, guid: 30591648a233899468abb9443e055e4b, type: 3}
+    - target: {fileID: 2855306092940409004, guid: e2cfd3a4565c45944bfba0a6f4e50e10, type: 3}
+      propertyPath: 'portrait.Array.data[18]'
+      value: 
+      objectReference: {fileID: 3630652373692386130, guid: bab896c7e85316743863d6c5cae7108b, type: 3}
+    - target: {fileID: 2855306092940409004, guid: e2cfd3a4565c45944bfba0a6f4e50e10, type: 3}
+      propertyPath: 'portrait.Array.data[19]'
+      value: 
+      objectReference: {fileID: -278315761961347609, guid: 30591648a233899468abb9443e055e4b, type: 3}
+    - target: {fileID: 2855306092940409004, guid: e2cfd3a4565c45944bfba0a6f4e50e10, type: 3}
+      propertyPath: 'portrait.Array.data[20]'
+      value: 
+      objectReference: {fileID: -278315761961347609, guid: 30591648a233899468abb9443e055e4b, type: 3}
+    - target: {fileID: 2855306092940409004, guid: e2cfd3a4565c45944bfba0a6f4e50e10, type: 3}
+      propertyPath: 'portrait.Array.data[21]'
+      value: 
+      objectReference: {fileID: 3630652373692386130, guid: bab896c7e85316743863d6c5cae7108b, type: 3}
+    - target: {fileID: 2855306092940409004, guid: e2cfd3a4565c45944bfba0a6f4e50e10, type: 3}
+      propertyPath: 'portrait.Array.data[22]'
+      value: 
+      objectReference: {fileID: -278315761961347609, guid: 30591648a233899468abb9443e055e4b, type: 3}
+    - target: {fileID: 2855306092940409004, guid: e2cfd3a4565c45944bfba0a6f4e50e10, type: 3}
+      propertyPath: 'portrait.Array.data[23]'
+      value: 
+      objectReference: {fileID: -278315761961347609, guid: 30591648a233899468abb9443e055e4b, type: 3}
+    - target: {fileID: 2855306092940409004, guid: e2cfd3a4565c45944bfba0a6f4e50e10, type: 3}
+      propertyPath: 'portrait.Array.data[24]'
+      value: 
+      objectReference: {fileID: 3630652373692386130, guid: bab896c7e85316743863d6c5cae7108b, type: 3}
+    - target: {fileID: 2855306092940409004, guid: e2cfd3a4565c45944bfba0a6f4e50e10, type: 3}
+      propertyPath: 'portrait.Array.data[25]'
+      value: 
+      objectReference: {fileID: -278315761961347609, guid: 30591648a233899468abb9443e055e4b, type: 3}
+    - target: {fileID: 2855306092940409004, guid: e2cfd3a4565c45944bfba0a6f4e50e10, type: 3}
+      propertyPath: 'portrait.Array.data[26]'
+      value: 
+      objectReference: {fileID: -278315761961347609, guid: 30591648a233899468abb9443e055e4b, type: 3}
+    - target: {fileID: 2855306092940409004, guid: e2cfd3a4565c45944bfba0a6f4e50e10, type: 3}
+      propertyPath: 'portrait.Array.data[27]'
+      value: 
+      objectReference: {fileID: -278315761961347609, guid: 30591648a233899468abb9443e055e4b, type: 3}
+    - target: {fileID: 2855306092940409004, guid: e2cfd3a4565c45944bfba0a6f4e50e10, type: 3}
+      propertyPath: 'portrait.Array.data[28]'
+      value: 
+      objectReference: {fileID: 3630652373692386130, guid: bab896c7e85316743863d6c5cae7108b, type: 3}
+    - target: {fileID: 2855306092940409004, guid: e2cfd3a4565c45944bfba0a6f4e50e10, type: 3}
+      propertyPath: 'portrait.Array.data[29]'
+      value: 
+      objectReference: {fileID: -278315761961347609, guid: 30591648a233899468abb9443e055e4b, type: 3}
+    - target: {fileID: 2855306092940409004, guid: e2cfd3a4565c45944bfba0a6f4e50e10, type: 3}
+      propertyPath: 'portrait.Array.data[30]'
+      value: 
+      objectReference: {fileID: 3630652373692386130, guid: bab896c7e85316743863d6c5cae7108b, type: 3}
+    - target: {fileID: 2855306092940409004, guid: e2cfd3a4565c45944bfba0a6f4e50e10, type: 3}
+      propertyPath: 'portrait.Array.data[31]'
+      value: 
+      objectReference: {fileID: -278315761961347609, guid: 30591648a233899468abb9443e055e4b, type: 3}
+    - target: {fileID: 2855306092940409004, guid: e2cfd3a4565c45944bfba0a6f4e50e10, type: 3}
       propertyPath: dialogueLines.Array.size
-      value: 11
+      value: 32
       objectReference: {fileID: 0}
     - target: {fileID: 2855306092940409004, guid: e2cfd3a4565c45944bfba0a6f4e50e10, type: 3}
       propertyPath: 'dialogueLines.Array.data[0]'
@@ -835,11 +1019,106 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 2855306092940409004, guid: e2cfd3a4565c45944bfba0a6f4e50e10, type: 3}
       propertyPath: 'dialogueLines.Array.data[9]'
-      value: He did go on and on of how not everything is fully connected yet, right?
+      value: Yea he did... but connected? Like how?
       objectReference: {fileID: 0}
     - target: {fileID: 2855306092940409004, guid: e2cfd3a4565c45944bfba0a6f4e50e10, type: 3}
       propertyPath: 'dialogueLines.Array.data[10]'
-      value: Yea he did... but connected? Like how?
+      value: "Well, some parts of your code say, \"Hey, I need to call this function!\"
+        but they don\u2019t know where that function lives."
+      objectReference: {fileID: 0}
+    - target: {fileID: 2855306092940409004, guid: e2cfd3a4565c45944bfba0a6f4e50e10, type: 3}
+      propertyPath: 'dialogueLines.Array.data[11]'
+      value: My job as a linker is to fill in those blanks.
+      objectReference: {fileID: 0}
+    - target: {fileID: 2855306092940409004, guid: e2cfd3a4565c45944bfba0a6f4e50e10, type: 3}
+      propertyPath: 'dialogueLines.Array.data[12]'
+      value: Player hands another scroll labeled "Relocation."
+      objectReference: {fileID: 0}
+    - target: {fileID: 2855306092940409004, guid: e2cfd3a4565c45944bfba0a6f4e50e10, type: 3}
+      propertyPath: 'dialogueLines.Array.data[13]'
+      value: I see you also brought me the relocation scroll from that warehouse
+        bear.
+      objectReference: {fileID: 0}
+    - target: {fileID: 2855306092940409004, guid: e2cfd3a4565c45944bfba0a6f4e50e10, type: 3}
+      propertyPath: 'dialogueLines.Array.data[14]'
+      value: "Now, he\u2019s concerned about this because when I combine all the
+        object files, I must shift things around, so they don\u2019t overlap."
+      objectReference: {fileID: 0}
+    - target: {fileID: 2855306092940409004, guid: e2cfd3a4565c45944bfba0a6f4e50e10, type: 3}
+      propertyPath: 'dialogueLines.Array.data[15]'
+      value: Okay, that makes sense. But what about the missing addresses?
+      objectReference: {fileID: 0}
+    - target: {fileID: 2855306092940409004, guid: e2cfd3a4565c45944bfba0a6f4e50e10, type: 3}
+      propertyPath: 'dialogueLines.Array.data[16]'
+      value: "Ah, that\u2019s called symbol resolution. If one part of your code
+        says, \"I need a function named drawSprite,\""
+      objectReference: {fileID: 0}
+    - target: {fileID: 2855306092940409004, guid: e2cfd3a4565c45944bfba0a6f4e50e10, type: 3}
+      propertyPath: 'dialogueLines.Array.data[17]'
+      value: "I\u2019ll check to find where that function lives. Once I find it,
+        I make a note of the address and update the requesting code."
+      objectReference: {fileID: 0}
+    - target: {fileID: 2855306092940409004, guid: e2cfd3a4565c45944bfba0a6f4e50e10, type: 3}
+      propertyPath: 'dialogueLines.Array.data[18]'
+      value: "So, you\u2019re like a mapmaker?"
+      objectReference: {fileID: 0}
+    - target: {fileID: 2855306092940409004, guid: e2cfd3a4565c45944bfba0a6f4e50e10, type: 3}
+      propertyPath: 'dialogueLines.Array.data[19]'
+      value: "Yes, but I prefer librarian. I even handle external libraries. Say
+        you\u2019re using a standard library function like good ole printf."
+      objectReference: {fileID: 0}
+    - target: {fileID: 2855306092940409004, guid: e2cfd3a4565c45944bfba0a6f4e50e10, type: 3}
+      propertyPath: 'dialogueLines.Array.data[20]'
+      value: "I\u2019ll find it, link it up, and make sure your program can use it."
+      objectReference: {fileID: 0}
+    - target: {fileID: 2855306092940409004, guid: e2cfd3a4565c45944bfba0a6f4e50e10, type: 3}
+      propertyPath: 'dialogueLines.Array.data[21]'
+      value: "What happens if you can\u2019t find a symbol?"
+      objectReference: {fileID: 0}
+    - target: {fileID: 2855306092940409004, guid: e2cfd3a4565c45944bfba0a6f4e50e10, type: 3}
+      propertyPath: 'dialogueLines.Array.data[22]'
+      value: "Oh dear. It\u2019s called an \"undefined symbol error.\" It means you\u2019ve
+        asked for something that doesn\u2019t exist."
+      objectReference: {fileID: 0}
+    - target: {fileID: 2855306092940409004, guid: e2cfd3a4565c45944bfba0a6f4e50e10, type: 3}
+      propertyPath: 'dialogueLines.Array.data[23]'
+      value: "You\u2019ll need to check your code or libraries to make sure everything
+        you need is there."
+      objectReference: {fileID: 0}
+    - target: {fileID: 2855306092940409004, guid: e2cfd3a4565c45944bfba0a6f4e50e10, type: 3}
+      propertyPath: 'dialogueLines.Array.data[24]'
+      value: And what if symbols clash?
+      objectReference: {fileID: 0}
+    - target: {fileID: 2855306092940409004, guid: e2cfd3a4565c45944bfba0a6f4e50e10, type: 3}
+      propertyPath: 'dialogueLines.Array.data[25]'
+      value: "Excellent question! That\u2019s a \"duplicate symbol error.\""
+      objectReference: {fileID: 0}
+    - target: {fileID: 2855306092940409004, guid: e2cfd3a4565c45944bfba0a6f4e50e10, type: 3}
+      propertyPath: 'dialogueLines.Array.data[26]'
+      value: "That\u2019s when I play this really fun game with myself of Eeny-miny-Mo
+        of which one I will pick."
+      objectReference: {fileID: 0}
+    - target: {fileID: 2855306092940409004, guid: e2cfd3a4565c45944bfba0a6f4e50e10, type: 3}
+      propertyPath: 'dialogueLines.Array.data[27]'
+      value: So, I highly recommend making sure all your symbols are strong.
+      objectReference: {fileID: 0}
+    - target: {fileID: 2855306092940409004, guid: e2cfd3a4565c45944bfba0a6f4e50e10, type: 3}
+      propertyPath: 'dialogueLines.Array.data[28]'
+      value: This is where the linker games begin
+      objectReference: {fileID: 0}
+    - target: {fileID: 2855306092940409004, guid: e2cfd3a4565c45944bfba0a6f4e50e10, type: 3}
+      propertyPath: 'dialogueLines.Array.data[29]'
+      value: "Once everything is resolved and relocated, I produce a final output:
+        an executable. That\u2019s your program, ready to run."
+      objectReference: {fileID: 0}
+    - target: {fileID: 2855306092940409004, guid: e2cfd3a4565c45944bfba0a6f4e50e10, type: 3}
+      propertyPath: 'dialogueLines.Array.data[30]'
+      value: "Wow, I didn\u2019t realize how much goes into it!"
+      objectReference: {fileID: 0}
+    - target: {fileID: 2855306092940409004, guid: e2cfd3a4565c45944bfba0a6f4e50e10, type: 3}
+      propertyPath: 'dialogueLines.Array.data[31]'
+      value: Just remember, a good linker makes all the difference. Now go build
+        something amazing!
       objectReference: {fileID: 0}
     - target: {fileID: 3453518482737747774, guid: e2cfd3a4565c45944bfba0a6f4e50e10, type: 3}
       propertyPath: m_Name
