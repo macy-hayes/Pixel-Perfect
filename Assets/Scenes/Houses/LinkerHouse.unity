@@ -719,11 +719,11 @@ PrefabInstance:
       objectReference: {fileID: 1990822634}
     - target: {fileID: 2855306092940409004, guid: e2cfd3a4565c45944bfba0a6f4e50e10, type: 3}
       propertyPath: speaker.Array.size
-      value: 6
+      value: 9
       objectReference: {fileID: 0}
     - target: {fileID: 2855306092940409004, guid: e2cfd3a4565c45944bfba0a6f4e50e10, type: 3}
       propertyPath: portrait.Array.size
-      value: 6
+      value: 9
       objectReference: {fileID: 0}
     - target: {fileID: 2855306092940409004, guid: e2cfd3a4565c45944bfba0a6f4e50e10, type: 3}
       propertyPath: 'speaker.Array.data[1]'
@@ -743,6 +743,18 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 2855306092940409004, guid: e2cfd3a4565c45944bfba0a6f4e50e10, type: 3}
       propertyPath: 'speaker.Array.data[5]'
+      value: Linker Octo
+      objectReference: {fileID: 0}
+    - target: {fileID: 2855306092940409004, guid: e2cfd3a4565c45944bfba0a6f4e50e10, type: 3}
+      propertyPath: 'speaker.Array.data[6]'
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 2855306092940409004, guid: e2cfd3a4565c45944bfba0a6f4e50e10, type: 3}
+      propertyPath: 'speaker.Array.data[7]'
+      value: Linker Octo
+      objectReference: {fileID: 0}
+    - target: {fileID: 2855306092940409004, guid: e2cfd3a4565c45944bfba0a6f4e50e10, type: 3}
+      propertyPath: 'speaker.Array.data[8]'
       value: Linker Octo
       objectReference: {fileID: 0}
     - target: {fileID: 2855306092940409004, guid: e2cfd3a4565c45944bfba0a6f4e50e10, type: 3}
@@ -766,8 +778,20 @@ PrefabInstance:
       value: 
       objectReference: {fileID: -278315761961347609, guid: 30591648a233899468abb9443e055e4b, type: 3}
     - target: {fileID: 2855306092940409004, guid: e2cfd3a4565c45944bfba0a6f4e50e10, type: 3}
+      propertyPath: 'portrait.Array.data[6]'
+      value: 
+      objectReference: {fileID: 3630652373692386130, guid: bab896c7e85316743863d6c5cae7108b, type: 3}
+    - target: {fileID: 2855306092940409004, guid: e2cfd3a4565c45944bfba0a6f4e50e10, type: 3}
+      propertyPath: 'portrait.Array.data[7]'
+      value: 
+      objectReference: {fileID: -278315761961347609, guid: 30591648a233899468abb9443e055e4b, type: 3}
+    - target: {fileID: 2855306092940409004, guid: e2cfd3a4565c45944bfba0a6f4e50e10, type: 3}
+      propertyPath: 'portrait.Array.data[8]'
+      value: 
+      objectReference: {fileID: -278315761961347609, guid: 30591648a233899468abb9443e055e4b, type: 3}
+    - target: {fileID: 2855306092940409004, guid: e2cfd3a4565c45944bfba0a6f4e50e10, type: 3}
       propertyPath: dialogueLines.Array.size
-      value: 6
+      value: 11
       objectReference: {fileID: 0}
     - target: {fileID: 2855306092940409004, guid: e2cfd3a4565c45944bfba0a6f4e50e10, type: 3}
       propertyPath: 'dialogueLines.Array.data[0]'
@@ -795,6 +819,27 @@ PrefabInstance:
     - target: {fileID: 2855306092940409004, guid: e2cfd3a4565c45944bfba0a6f4e50e10, type: 3}
       propertyPath: 'dialogueLines.Array.data[5]'
       value: My job is to bring them together. Let me show you how it works!
+      objectReference: {fileID: 0}
+    - target: {fileID: 2855306092940409004, guid: e2cfd3a4565c45944bfba0a6f4e50e10, type: 3}
+      propertyPath: 'dialogueLines.Array.data[6]'
+      value: Player hands over object file scroll
+      objectReference: {fileID: 0}
+    - target: {fileID: 2855306092940409004, guid: e2cfd3a4565c45944bfba0a6f4e50e10, type: 3}
+      propertyPath: 'dialogueLines.Array.data[7]'
+      value: "Ah, I see you\u2019ve brought me the object file scroll from that insane
+        axolotl."
+      objectReference: {fileID: 0}
+    - target: {fileID: 2855306092940409004, guid: e2cfd3a4565c45944bfba0a6f4e50e10, type: 3}
+      propertyPath: 'dialogueLines.Array.data[8]'
+      value: He did go on and on of how not everything is fully connected yet, right?
+      objectReference: {fileID: 0}
+    - target: {fileID: 2855306092940409004, guid: e2cfd3a4565c45944bfba0a6f4e50e10, type: 3}
+      propertyPath: 'dialogueLines.Array.data[9]'
+      value: He did go on and on of how not everything is fully connected yet, right?
+      objectReference: {fileID: 0}
+    - target: {fileID: 2855306092940409004, guid: e2cfd3a4565c45944bfba0a6f4e50e10, type: 3}
+      propertyPath: 'dialogueLines.Array.data[10]'
+      value: Yea he did... but connected? Like how?
       objectReference: {fileID: 0}
     - target: {fileID: 3453518482737747774, guid: e2cfd3a4565c45944bfba0a6f4e50e10, type: 3}
       propertyPath: m_Name
