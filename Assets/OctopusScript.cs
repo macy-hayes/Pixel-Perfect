@@ -6,6 +6,11 @@ public class OctopusScript : MonoBehaviour
     public bool isOnOcto = false;
     public bool isInteracting = false;
 
+    [SerializeField]
+    private GameObject dialogueBox;
+
+
+
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
     {
@@ -28,7 +33,7 @@ public class OctopusScript : MonoBehaviour
         {
             if (isInteracting)
             {
-                //Write dialogue code
+                dialogueBox.SetActive(true);
             }
         }
     }
